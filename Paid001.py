@@ -1,4 +1,10 @@
+# DECOMPILED BY TEAM-INSANE-PK
 
+# DONT MESS WITH ME🤪
+
+# I DONT SAY ANYTHING DOESNT MEAN I DONT KNOW 
+
+# ADMIN JUB TUK KOI GF NI MILY GI MAI ESY KRTA RAHON GA
 import os, time, requests, datetime, random,multiprocessing.pool, getpass, json, threading, sys, uuid, shutil, zlib, base64
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
